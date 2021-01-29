@@ -1,0 +1,23 @@
+{
+  "name": "sesi10",
+  "version": "1.0.0",
+  "description": "sesi19",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass --watch assets/scss -o assets/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "",
+  "license": "UNLICENCED",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
